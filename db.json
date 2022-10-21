@@ -1,11 +1,9 @@
 {
-  "programList": [3, 4, 1, 2],
   "programListWithDeliveryModes": { "3": [2], "4": [2], "1": [3, 2, 1], "2": [3, 1] },
-  "deliveryModeOptions": [3, 2, 1],
   "programTypeMapping": {
     "1": "Individual Courses",
     "2": "Learning Paths",
-    "3": "Master's, program",
+    "3": "Master's program",
     "4": "University programs"
   },
   "deliveryModeMapping": {
